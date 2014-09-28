@@ -1,0 +1,19 @@
+#social {
+    text-align: center;
+}
+.twitter {
+    text-align: center;
+}
+.github {
+    text-align: center;
+    color: #000000
+}
+.github:hover {
+    text-align: center;
+    color: #27B5FF;
+h1 {
+    text-align: center;
+    font-family: 'Pacifico', sans-serif;
+    font-size: 149px;
+    color: black;
+}
