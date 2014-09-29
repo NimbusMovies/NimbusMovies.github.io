@@ -1,12 +1,13 @@
 #social {
     text-align: center;
 }
-.twitter {
+.twitter, .github, .steam {
     text-align: center;
+    color: black;
 }
-.github {
+.github:hover {
     text-align: center;
-    color: #FF0000;
+    color: grey;
 }
 h1 {
     text-align: center;
@@ -18,12 +19,12 @@ h3 {
     text-align: center;
     font-family: 'Open Sans Condensed', sans-serif;
 }
-.steam {
-    text-align: center;
-    color: #000000;
-}
 .steam:hover {
+    text-align: center;
     color: #555555;
+}
+.twitter:hover {
+    color: deepskyblue;
 }
 h2 {
     text-align: center;
