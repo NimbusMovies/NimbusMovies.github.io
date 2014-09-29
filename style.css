@@ -18,3 +18,10 @@ h3 {
     text-align: center;
     font-family: 'Open Sans Condensed', sans-serif;
 }
+.steam {
+    text-align: center;
+    color: #000000;
+}
+.steam:hover {
+    color: #555555;
+}
