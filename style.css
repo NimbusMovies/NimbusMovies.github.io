@@ -1,7 +1,7 @@
 #social {
     text-align: center;
 }
-.twitter, .github, .steam {
+.twitter, .github, .steam, .enjin {
     text-align: center;
     color: black;
 }
@@ -29,4 +29,8 @@ h3 {
 h2 {
     text-align: center;
     font-family: 'Open Sans Condensed', sans-serif;
+}
+.enjin:hover {
+    text-align: center;
+    color: #00005E;
 }
