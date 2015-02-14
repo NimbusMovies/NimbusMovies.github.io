@@ -1,0 +1,32 @@
+#social {
+    text-align: center;
+}
+.twitter, .github, .steam, .enjin {
+    text-align: center;
+    color: black;
+}
+.github:hover {
+    text-align: center;
+    color: grey;
+}
+.jumbo {
+    text-align: center;
+    font-family: 'Pacifico', sans-serif;
+    font-size: 149px;
+    color: black;
+}
+.text {
+    text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.steam:hover {
+    text-align: center;
+    color: #555555;
+}
+.twitter:hover {
+    color: deepskyblue;
+}
+.enjin:hover {
+    text-align: center;
+    color: #00005E;
+}

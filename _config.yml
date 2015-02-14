@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /beta-site
+exclude: ['README.md']
